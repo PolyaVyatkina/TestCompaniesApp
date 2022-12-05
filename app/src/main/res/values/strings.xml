@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestCompaniesApp</string>
+    <string name="title_description">Описание</string>
+    <string name="show_in_maps"><u>Показать на карте</u></string>
+</resources>
